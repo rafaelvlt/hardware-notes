@@ -1,6 +1,16 @@
-# Arduino-studylog
-Minha jornada no aprendizado de arduino\
-Entrei em contato com o arduino pela primeira vez no curso de introdução a engenharia elétrica, na UFPE, e amei de cara  porque descobri ao montar meu primeiro computador que gosto tanto de futucar em hardware quanto em software, sendo assim, sistemas embarcados é
-uma paixão natural pois lida com o limiar entre os dois. Por mais que minha universidade apresente cursos de arquiteturas de computadores, microcontroladores, etc, durante períodos mais avançados do curso, decidi começar por hobby e para pegar um tato de como funciona
-embarcados e se é realmente o que eu quero.
-Esse repositório é um Log que vai apresentar tantos relatos em texto do que aprendi, quanto arquivos de código, fotos ou videos do arduino.
+# hardware-notes
+
+Repository for hardware studies, covering Digital Systems, HDL, FPGA, Embedded Systems, and Electronics.
+
+## Contents
+
+### /arduino
+- /paul-mcworther-tutorial: Basic electronics, sensors, and actuator logic series.
+
+### /hdl
+university-digital-systems-25.2: Labwork for the Digital Systems Design course (CIn-UFPE)- /verilog-hdlbits: Solutions to logic design problems from the HDLBits platform, ranging from basic gates to complex FSMs.
+
+## External Projects
+
+- [Mini-CPU](https://github.com/rafaelvlt/CPU): Digital Systems Design final project. Custom CPU architecture with an LCD implemented in Verilog and programmed into a DE2-115 FPGA.
+- [ALU-Gates](https://github.com/rafaelvlt/ALU-SD): Digital Systems Design first project. Arithmetic Logic Unit designed using Block Diagrams in Quartus and programmed into a DE2-115 FPGA.
