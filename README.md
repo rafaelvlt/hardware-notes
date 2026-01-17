@@ -1,6 +1,6 @@
 # Hardware Notes
 
-This repository contains notes, studies, and projects related to hardware, covering topics such as Digital Systems, HDLs (Verilog, VHDL), FPGAs, Embedded Systems, and general electronics.
+This repository contains notes, studies, and projects related to hardware, covering topics such as Digital Design, HDLs (Verilog, VHDL), FPGAs, Embedded Systems, and general electronics.
 
 ## Contents
 
@@ -10,11 +10,11 @@ This repository is organized into the following main directories:
 
 *   **/paul-mcworther-tutorial**: Code and notes from Paul McWhorter's Arduino tutorial series, covering basic electronics, sensors, and actuator logic.
 
-### `/hdl`
+### `/digital-logic`
 
 *   **/university-digital-systems-25.2**: Labwork for the Digital Systems Design course at CIn-UFPE.
-*   **/verilog-hdlbits**: Solutions to logic design problems from the [HDLBits](https://hdlbits.01xz.net/) platform, ranging from basic logic gates to complex Finite State Machines (FSMs).
-
+*   **/verilog-hdlbits**: Solutions to logic design problems from the [HDLBits](https://hdlbits.01xz.net/) platform.
+*   **/fpga-prototyping-book**: Experiments from the book FPGA Prototyping with SystemVerilog by Pong P. Chu. 
 ## External Projects
 
 Here are some related projects in separate repositories:
