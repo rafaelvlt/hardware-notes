@@ -21,3 +21,4 @@ Here are some related projects in separate repositories:
 
 *   **[Mini-CPU](https://github.com/rafaelvlt/CPU)**: The final project for the Digital Systems Design course. It features a custom CPU architecture with an LCD, implemented in Verilog and deployed on a DE2-115 FPGA.
 *   **[ALU-Gates](https://github.com/rafaelvlt/ALU-SD)**: The first project for the Digital Systems Design course. An Arithmetic Logic Unit (ALU) designed using Block Diagrams in Quartus and deployed on a DE2-115 FPGA.
+*   **[Visagem](https://github.com/rafaelvlt/visagem)**: A portable hacking and security tool built on the STM32F401 with multiple functions.
